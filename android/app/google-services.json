@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480151995616",
+    "project_id": "spreed-d7d3c",
+    "storage_bucket": "spreed-d7d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480151995616:android:d54e879227c0c6271ffc85",
+        "android_client_info": {
+          "package_name": "com.example.spreed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480151995616-uipk6mr1632qrsjeah50k4tvrkj2l007.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANTjt5rfLOvLeoE4T1w-LQ0SnLWUwBnDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480151995616-uipk6mr1632qrsjeah50k4tvrkj2l007.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
