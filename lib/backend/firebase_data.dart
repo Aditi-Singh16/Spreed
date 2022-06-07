@@ -1,4 +1,4 @@
-class firebaseData{
+class FirebaseData{
 
   //write crud operations here
 }
