@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:conditional_questions/conditional_questions.dart';
 import 'package:flutter/material.dart';
 import 'package:spreed/backend/firebase_data.dart';
@@ -17,6 +19,8 @@ class _ReadingTestState extends State<ReadingTest> {
     setState(() {
       result = res;
     });
+    print(result);
+    print(result.length);
   }
 
   @override
@@ -28,6 +32,9 @@ class _ReadingTestState extends State<ReadingTest> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text('Test'),
+      ),
       body: ConditionalQuestions(
           children: List<Question>.generate(result.length, (index) {
         return PolarQuestion(
