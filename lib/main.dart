@@ -1,5 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:spreed/frontend/home/recruiter/result_dashboard.dart';
 import 'package:spreed/frontend/home/user/mcq.dart';
 import 'package:spreed/frontend/home/user/profile.dart';
 
@@ -30,7 +31,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const UserProfile()
+      home: ResultPage()
     );
   }
 }
