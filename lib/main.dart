@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:spreed/frontend/home/user/mcq.dart';
 import 'package:spreed/frontend/home/user/profile.dart';
 import 'package:spreed/frontend/home/user/view_jobs.dart';
+import 'package:spreed/frontend/home/user/profile_insights_tab.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -31,6 +32,6 @@ class MyApp extends StatelessWidget {
           // is not restarted.
           primarySwatch: Colors.blue,
         ),
-        home: JobList());
+        home: const Profile());
   }
 }
