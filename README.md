@@ -1,42 +1,33 @@
 # spreed
 
-A new Flutter project.
-
-## Getting Started
-To add ur assigned part follow these steps
-
-
-**1.** Create a new branch.
-
-```
-git checkout -b <your_branch_name>
-```
-
-**2.** Perform your desired changes to the code base.
-
-<p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
-
-**3.** Track your changes:heavy_check_mark: .
-
-```
-git add . 
-```
-
-**4.** Commit your changes .
-
-```
-git commit -m "Relevant message"
-```
-
-**5.** Push the committed changes in your feature branch.
-
-```
-git push -u origin <your_branch_name>
-```
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74586135/202977470-e7476c93-99b2-4d4e-8b31-6296aebc8c28.png" width=40% height=40%>
+</p>
 
 
-**6.** Create a PR.
+## :monocle_face: About Spreed
 
-```
-click on compare and pull requests then compare with master branch and create a pull request.
-```
+<p>Spreed is a mobile application that focuses on speed reading using mindfulness which helps the users to process the information faster and also helps them to be fully present, aware of where they are and what they’re doing, and not overly reactive or overwhelmed by what’s going on around them. Spreed provides a wide range of options to users to choose the context based on various genres and a variety of languages. Spreed keeps users active and engaging with daily-check in points, points on clearing milestones, and makes the environment competitive to see on the top of the leaderboard. Spreed also lists the jobs and help recruiters to recruit the candidates by conducting test and results. Spreed is a platform to hone speed reading using mindfulness.
+ </p>
+
+
+## :sparkles: Features
+
+1. Increasing Difficulty levels 
+2. Different genres/Topic
+3. Wide variety of languages to choose from
+4. Daily check-in points 
+5. Milestone clearing points
+6. Visualize progress check
+7. MCQs for concentration check
+8. Cumulative score calculation based on reading time and MCQ correctness
+9. Leaderboard to keep the app engaging and competitive.
+10. Check if the same user is taking the test using face recognition, and matching the current photo with the photo taken at the first time the user attempted the test.
+11. Listing of Related Jobs.
+12. Providing Proficiency-levels and certificates based on the scores
+
+
+
+
+https://user-images.githubusercontent.com/74586135/209519686-13a494b5-fb13-4d89-9519-d54afc36df0f.mp4
+
