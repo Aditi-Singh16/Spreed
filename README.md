@@ -1,8 +1,5 @@
-# spreed
+# Spreed
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74586135/202977470-e7476c93-99b2-4d4e-8b31-6296aebc8c28.png" width=40% height=40%>
-</p>
 
 
 ## :monocle_face: About Spreed
